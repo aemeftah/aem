@@ -1,4 +1,4 @@
-export const correction={
+{
   "items": [
     {/** سلسلة عشوائية */
       "1":[0],
